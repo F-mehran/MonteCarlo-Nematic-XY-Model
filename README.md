@@ -25,7 +25,7 @@ Features of the BKT transition:
 
 ---
 
-## 🧪 What We Compute
+##  What We Compute
 
 | Quantity | Symbol | Purpose |
 |---------|--------|---------|
